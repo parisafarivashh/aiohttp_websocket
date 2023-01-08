@@ -1,3 +1,5 @@
+- pip install aiohttp
+- first run -> python server.py then python client.py now you can send message 
 
 ### What is aiohttp ? 
 - aiohttp is an HTTP client/server for asyncio.
